@@ -48,7 +48,7 @@ else
   <nav class="navbar navbar-dark  navbar-expand-lg fixed-top navbarcolor">
     <div class="container-fluid">
         <div class="nav navbar-header">
-            <img class="navbar-brand" src="/images/logo.png" width="130px" >
+            <img class="navbar-brand" src="images/logo.png" width="130px" >
             <button class="navbar-toggler" type="button"
              data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" 
              aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -91,7 +91,7 @@ else
                 <a class=" fontcolor nav-link nav-linkNew" href="contactus.html">CONTACT US</a>
             </li>
         </ul>
-        <img src="/images/searchicon.jpg" width="30px" >
+        <img src="images/searchicon.jpg" width="30px" >
     </div>
 </nav>
     <!-- Indicators/dots -->
@@ -111,19 +111,19 @@ else
   <!-- The slideshow/carousel -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/images/slide01.jpg" alt="Los Angeles" class="d-block" style="width:100%">
+      <img src="images/slide01.jpg" alt="Los Angeles" class="d-block" style="width:100%">
     </div>
     <div class="carousel-item">
-      <img src="/images/slide02.jpg" alt="Chicago" class="d-block" style="width:100%">
+      <img src="images/slide02.jpg" alt="Chicago" class="d-block" style="width:100%">
     </div>
     <div class="carousel-item">
-      <img src="/images/slide03.jpg" alt="New York" class="d-block" style="width:100%"> 
+      <img src="images/slide03.jpg" alt="New York" class="d-block" style="width:100%"> 
     </div>
     <div class="carousel-item">
-      <img src="/images/slide04.jpg" alt="New York" class="d-block" style="width:100%"> 
+      <img src="images/slide04.jpg" alt="New York" class="d-block" style="width:100%"> 
     </div>
     <div class="carousel-item">
-      <img src="/images/slide05.jpg" alt="New York" class="d-block" style="width:100%"> 
+      <img src="images/slide05.jpg" alt="New York" class="d-block" style="width:100%"> 
     </div>
   </div>
   
@@ -204,7 +204,7 @@ else
     <div class="carousel-inner">
         <div class="carousel-item active">
             <div class="card">
-                <img src="/images/carousel01.jpg" class="card-img-top" alt="...">
+                <img src="images/carousel01.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <h5 class="card-title">Card title</h5>
                   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -214,7 +214,7 @@ else
         </div>
         <div class="carousel-item">
             <div class="card">
-                <img src="/images/carousel02.jpg" class="card-img-top" alt="...">
+                <img src="images/carousel02.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <h5 class="card-title">Card title</h5>
                   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -224,7 +224,7 @@ else
         </div>
         <div class="carousel-item">
             <div class="card">
-                <img src="/images/carousel03.jpg" class="card-img-top" alt="...">
+                <img src="images/carousel03.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <h5 class="card-title">Card title</h5>
                   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -234,7 +234,7 @@ else
         </div>
         <div class="carousel-item">
             <div class="card" >
-                <img src="/images/carousel04.jpg" class="card-img-top" alt="...">
+                <img src="images/carousel04.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <h5 class="card-title">Card title</h5>
                   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -244,7 +244,7 @@ else
         </div>
         <div class="carousel-item">
             <div class="card" >
-                <img src="/images/carousel05.jpg" class="card-img-top" alt="...">
+                <img src="images/carousel05.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <h5 class="card-title">Card title</h5>
                   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -254,7 +254,7 @@ else
         </div>
         <div class="carousel-item">
             <div class="card" >
-                <img src="/images/carousel06.jpg" class="card-img-top" alt="...">
+                <img src="images/carousel06.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                   <h5 class="card-title">Card title</h5>
                   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -330,7 +330,7 @@ else
         <div class="col-md-1 col-sm-1 col-xs-1 col-lg-1 ">
         </div>
         <div class="col-md-3 col-sm-3 col-xs-3 col-lg-3 footerbox footerbox1">
-          <img class="fimg" src="/images/logo.png" width="180px"><br><br>
+          <img class="fimg" src="images/logo.png" width="180px"><br><br>
           <p class="pf">Copyright @ 2023.<br>
             &nbsp;&nbsp;&nbsp;&nbsp;All rights reserved.</p>
         </div>
@@ -345,12 +345,12 @@ else
         </div>
         <div class="col-md-3 col-sm-3 col-xs-3 col-lg-3 footerbox footerbox3 ">
             <p class="fp">FOLLOW US</p>
-          <img class="solicalimgfooter" src="/images/f.png" href="https://www.google.com/">
-          <img class="solicalimgfooter" src="/images/y.png">
-          <img class="solicalimgfooter" src="/images/inf.png">
-          <img class="solicalimgfooter" src ="/images/pf.png"><br>
-          <img class="solicalimgfooter" src="/images/social_ic5.png">
-          <img  class="solicalimgfooter" src="/images/social_ic6.png">
+          <img class="solicalimgfooter" src="images/f.png" href="https://www.google.com/">
+          <img class="solicalimgfooter" src="images/y.png">
+          <img class="solicalimgfooter" src="images/inf.png">
+          <img class="solicalimgfooter" src ="images/pf.png"><br>
+          <img class="solicalimgfooter" src="images/social_ic5.png">
+          <img  class="solicalimgfooter" src="images/social_ic6.png">
         </div>
         <div class="col-md-1 col-sm-1 col-xs-1 col-lg-1 ">
         </div>
