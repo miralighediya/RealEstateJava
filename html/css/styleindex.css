@@ -1,0 +1,53 @@
+body{
+    background-color:#fff;
+   }
+   .firstheader{
+        width: 100%;
+        height: 51px;
+        border: solid 0px ;
+   }
+   .leftimage{
+    margin-top: 15px;
+    margin-left: 13px;
+   }
+   .rightdiv{
+    float: right;
+   } 
+   a{
+    font-size: 15PX;
+    color: #8B8B8B;
+    font-weight: 500;
+    padding: 17px;
+    font-family: 'Open Sans';
+    text-decoration: none;
+   }
+   .searchicon{
+        height: auto;
+        float: right;
+        margin-top: -5px
+   }
+   .container3box{
+     width: 1520px;
+     height: 400px;
+     border: 1px solid;
+     background-color: #dcd8d8 ;
+   }
+   .row{
+     width: 100%;
+    height: 400px;
+    background-color:#ddd;
+      grid-template-rows: repeat 80px 100px 150px ;
+      grid-template-columns: repeat(3,1fr);
+    row-gap:20px;
+    column-gap: 20px;
+     display: grid;
+}
+
+.grid{
+background-color:beige ;
+border: solid 1px;
+margin-top: 10px;
+}
+.navbarcolor{
+color: #8B8B8B;
+}
